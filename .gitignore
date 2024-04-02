@@ -1,4 +1,7 @@
 images/
+.ipynb_checkpoints/
 .DS_Store
 *.code-workspace
-
+*.tgz
+*.png
+*.mp4
